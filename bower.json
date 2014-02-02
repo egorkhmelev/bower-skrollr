@@ -3,7 +3,7 @@
   "version": "0.6.21",
   "main": "./skrollr.js",
   "ignore": [
-    "bower.json"
+    "bower.json",
     "README.md"
   ],
   "dependencies": {
