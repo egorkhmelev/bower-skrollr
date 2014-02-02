@@ -1,0 +1,7 @@
+{
+  "name": "bower-skrollr",
+  "version": "0.6.21",
+  "main": "./skrollr.js",
+  "dependencies": {
+  }
+}
